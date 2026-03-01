@@ -1,2 +1,2 @@
 # python-mini-quiz
-A simple interactive mini-quiz game built with Python.
+Ένα μικρό παιχνίδι quiz, κατεσκευασμένο στην python ώστε να τρέχει στο terminal
